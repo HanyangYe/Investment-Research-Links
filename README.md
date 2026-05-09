@@ -17,7 +17,7 @@
 
 #量化与数据接口
 [AKShare](https://akshare.akfamily.xyz/)：股票、期货、宏观、另类数据（CPI、生猪库存等）  
-[Tushare Pro](https://tushare.pro/)：A 股行情、财务、基金数据 API 
+[Tushare Pro](https://tushare.pro/)：A 股行情、财务、基金数据 API  
 [同花顺 iFinD（需下载）](http://www.aifind.com/)：智能问财选股、深度资料、行业数据  
  
 
