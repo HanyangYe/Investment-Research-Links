@@ -13,6 +13,7 @@
 
 # 行业与宏观数据
 [东方财富网（数据中心）](https://data.eastmoney.com/center/)：行业营收 / 毛利、竞争格局、北上资金、机构调研  
+[慧博投研](https://www.hibor.com.cn/)：券商研报、行业数据、财报一键解读  
 [萝卜投研](https://robo.datayes.com/)：券商研报、行业数据、财报一键解读  
 [国家统计局](https://www.stats.gov.cn/)：GDP、CPI、PMI、行业产值、统计年鉴  
 [中国人民银行官网](https://www.pbc.gov.cn/)：LPR、利率、汇率、货币政策、国债收益率曲线  
